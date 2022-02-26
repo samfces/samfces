@@ -1,8 +1,5 @@
-# ✨ Hey there! It's samfc
+# ✨ Hey there! It's samfces
 ---
-
-I spend my time trying robots, books and new things.
-
 ## 🌍 Social Media
 
 <p align="center">
@@ -20,6 +17,3 @@ I spend my time trying robots, books and new things.
 </p>
 
 ![visits](https://komarev.com/ghpvc/?username=saf3rc)
-
-# ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/207911848220033024)](https://discord.com/users/207911848220033024)
