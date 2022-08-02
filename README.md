@@ -10,7 +10,6 @@ With more than 7 years of experience in the programming world, I consider myself
 * ✉️  You can contact me at [samuel@digitalsynware.com](mailto:samuel@digitalsynware.com)
 * 🚀  I'm currently working on [DigitalSynware S.L.](http://digitalsynware.com)
 * 🧮  Member of [MineBox Development Team](https://minebox.es/)
-* ⚡  Now developing [AC Racing Experience](https://www.patreon.com/acracing)
 
 ### Skills
 
