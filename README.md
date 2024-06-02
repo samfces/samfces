@@ -8,7 +8,7 @@ With more than 9 years of experience in the programming world, I consider myself
 
 * 🌍  I'm based in Córdoba. Spain
 * ✉️  You can contact me at [samuel@digitalsynware.com](mailto:samuel@digitalsynware.com)
-* 🚀  I'm currently working on [MineBox Studios](http://minebox.es)
+* 🚀  I'm currently working on [MineBox Studios](https://minebox.studio)
 * 🧮  Member of [MineBox Development Team](https://minebox.es/)
 
 ### Skills
