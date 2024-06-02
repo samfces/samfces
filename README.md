@@ -4,7 +4,7 @@ Hi 👋 My name is Samuel Fernández
 Multiplatform & Web Full Stack Dev.
 -----------------------------------
 
-With more than 7 years of experience in the programming world, I consider myself an ambitious and self-taught person. Programming is my way of life and motorsport is my passion.
+With more than 9 years of experience in the programming world, I consider myself an ambitious and self-taught person. Programming is my way of life and motorsport is my passion.
 
 * 🌍  I'm based in Córdoba. Spain
 * ✉️  You can contact me at [samuel@digitalsynware.com](mailto:samuel@digitalsynware.com)
