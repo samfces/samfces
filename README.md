@@ -7,9 +7,9 @@ Multiplatform & Web Full Stack Dev.
 With more than 9 years of experience in the programming world, I consider myself an ambitious and self-taught person. Programming is my way of life and motorsport is my passion.
 
 * 🌍  I'm based in Córdoba. Spain
-* ✉️  You can contact me at [samuel@digitalsynware.com](mailto:samuel@digitalsynware.com)
+* ✉️  You can contact me at [samuel@minebox.studio](mailto:samuel@minebox.studio)
 * 🚀  I'm currently working on [MineBox Studios](https://minebox.studio)
-* 🧮  Member of [MineBox Development Team](https://minebox.es/)
+* 🧮  Member of [MineBox Studio Team](https://minebox.studio/)
 
 ### Skills
 
