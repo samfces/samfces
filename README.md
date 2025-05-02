@@ -14,32 +14,62 @@ Multiplatform & Web Full Stack Dev.
 With more than 9 years of experience in the programming world, I consider myself an ambitious and self-taught person. Programming is my way of life and motorsport is my passion.
 
 * 🌍  I'm based in Córdoba. Spain
-* ✉️  You can contact me at [samuel@minebox.studio](mailto:samuel@minebox.studio)
-* 🚀  I'm currently working on [MineBox Studios](https://minebox.studio)
-* 🧮  Member of [MineBox Studio Team](https://minebox.studio/)
+* ✉️  You can contact me at [hello@samfc.es](mailto:hello@samfc.es)
+* 🚀  You can also visit my website at [samfc.es](https://samfc.es)
 
-### Skills
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samfces/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/samfces)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samfces)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samfc99)
+[![Website](https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samfc.es/)
 
-### My Stack
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+## Stats
+<p align="center">
+  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=samfces&theme=ambient_gradient&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfces&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+## Skills
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+---
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+---
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-ACDB39?style=for-the-badge&logo=mockito&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
+### Tools and Environments
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Redis Insight](https://img.shields.io/badge/Redis%20Insight-ffffff?logo=redis&style=for-the-badge&color=DC382D&logoColor=fdfdfd)  \
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Redis Insight](https://img.shields.io/badge/Redis%20Insight-ffffff?logo=redis&style=for-the-badge&color=DC382D&logoColor=fdfdfd) 
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-ffffff?logo=mongodb&style=for-the-badge&color=47A248&logoColor=ffffff)
 ![DBeaver](https://img.shields.io/badge/DBeaver-ffffff?style=for-the-badge&color=6e98bf)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![MobaXTerm](https://img.shields.io/badge/MobaXTerm-ffffff?style=for-the-badge&color=000000)
-
-### Socials
-
-
-### Badges
-![samfces](https://github-readme-stats.vercel.app/api/top-langs/?username=samfces&show_icons=true&theme=gradient&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samfces/samfces/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samfces/samfces/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samfces/samfces/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+---
+### DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+### Build Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
